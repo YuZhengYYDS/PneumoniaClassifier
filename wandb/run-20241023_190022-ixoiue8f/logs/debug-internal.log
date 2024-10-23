@@ -1,0 +1,17 @@
+{"time":"2024-10-23T19:00:22.5488337-04:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-23T19:00:22.5488337-04:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241023_190022-ixoiue8f\\logs\\debug-core.log"}
+{"time":"2024-10-23T19:00:22.6560506-04:00","level":"INFO","msg":"created new stream","id":"ixoiue8f"}
+{"time":"2024-10-23T19:00:22.6560506-04:00","level":"INFO","msg":"stream: started","id":"ixoiue8f"}
+{"time":"2024-10-23T19:00:22.6560506-04:00","level":"INFO","msg":"sender: started","stream_id":"ixoiue8f"}
+{"time":"2024-10-23T19:00:22.6560506-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ixoiue8f"}}
+{"time":"2024-10-23T19:00:22.6560506-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ixoiue8f"}}
+{"time":"2024-10-23T19:00:23.0004858-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-23T19:06:06.3872127-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-23T19:06:06.3872127-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-23T19:06:07.3888792-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.5206107,"progress":"18.7KB/18.7KB"},{"desc":"saving job artifact","runtime_seconds":0.3397661},{"desc":"uploading config.yaml","runtime_seconds":0.0139316,"progress":"562B/562B"},{"desc":"uploading output.log","runtime_seconds":0.0139316,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2024-10-23T19:06:10.2526635-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-23T19:06:13.3899607-04:00","level":"INFO","msg":"stream: closing","id":"ixoiue8f"}
+{"time":"2024-10-23T19:06:13.3899607-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ixoiue8f"}}
+{"time":"2024-10-23T19:06:13.3899607-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ixoiue8f"}}
+{"time":"2024-10-23T19:06:13.3899607-04:00","level":"INFO","msg":"sender: closed","stream_id":"ixoiue8f"}
+{"time":"2024-10-23T19:06:13.3899607-04:00","level":"INFO","msg":"stream: closed","id":"ixoiue8f"}
