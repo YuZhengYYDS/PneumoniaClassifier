@@ -1,0 +1,28 @@
+Training Progress:   0%|          | 0/30 [00:07<?, ?it/s]
+cuda
+Dataset already exists at chest_xray_dataset. Skipping download.
+Re-split dataset already exists at chest_xray_dataset_new_split
+Train dataset size: 4684
+Validation dataset size: 585
+Test dataset size: 587
+Batch images shape: torch.Size([32, 1, 256, 256])
+Batch labels shape: torch.Size([32])
+Class counts in the balanced train_loader: Counter({0: 2371, 1: 2313})
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1         [-1, 16, 256, 256]             160
+              ReLU-2         [-1, 16, 256, 256]               0
+         AvgPool2d-3         [-1, 16, 128, 128]               0
+           Flatten-4               [-1, 262144]               0
+            Linear-5                    [-1, 2]         524,290
+================================================================
+Total params: 524,450
+Trainable params: 524,450
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.25
+Forward/backward pass size (MB): 20.00
+Params size (MB): 2.00
+Estimated Total Size (MB): 22.25
+----------------------------------------------------------------
