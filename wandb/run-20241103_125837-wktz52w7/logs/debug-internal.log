@@ -1,0 +1,19 @@
+{"time":"2024-11-03T12:58:37.5737189-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-03T12:58:37.5737189-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241103_125837-wktz52w7\\logs\\debug-core.log"}
+{"time":"2024-11-03T12:58:37.683383-05:00","level":"INFO","msg":"created new stream","id":"wktz52w7"}
+{"time":"2024-11-03T12:58:37.683383-05:00","level":"INFO","msg":"stream: started","id":"wktz52w7"}
+{"time":"2024-11-03T12:58:37.683383-05:00","level":"INFO","msg":"sender: started","stream_id":"wktz52w7"}
+{"time":"2024-11-03T12:58:37.683383-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wktz52w7"}}
+{"time":"2024-11-03T12:58:37.683383-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wktz52w7"}}
+{"time":"2024-11-03T12:58:38.9973174-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-03T13:03:45.1015064-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-03T13:03:51.727108-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-03T13:03:51.8133748-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-03T13:03:51.8133748-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-03T13:03:52.823063-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.8531373}],"total_operations":1}}
+{"time":"2024-11-03T13:03:53.2325221-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-03T13:03:54.8050508-05:00","level":"INFO","msg":"stream: closing","id":"wktz52w7"}
+{"time":"2024-11-03T13:03:54.8050508-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wktz52w7"}}
+{"time":"2024-11-03T13:03:54.8050508-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wktz52w7"}}
+{"time":"2024-11-03T13:03:54.8050508-05:00","level":"INFO","msg":"sender: closed","stream_id":"wktz52w7"}
+{"time":"2024-11-03T13:03:54.8050508-05:00","level":"INFO","msg":"stream: closed","id":"wktz52w7"}

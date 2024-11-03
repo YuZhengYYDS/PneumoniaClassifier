@@ -1,0 +1,22 @@
+Training Progress:  14%|█▍        | 7/50 [05:05<31:18, 43.69s/it]
+Epoch [1/50], Train Loss: 1.1765, Train Accuracy: 83.21%
+Validation Loss: 0.2170, Validation Accuracy: 93.17%
+Validation loss decreased (inf --> 0.216963). Saving model ...
+Epoch [2/50], Train Loss: 0.3071, Train Accuracy: 86.79%
+Validation Loss: 0.2769, Validation Accuracy: 86.26%
+EarlyStopping counter: 1 out of 5
+Epoch [3/50], Train Loss: 0.2796, Train Accuracy: 87.78%
+Validation Loss: 0.2199, Validation Accuracy: 91.85%
+EarlyStopping counter: 2 out of 5
+Epoch [4/50], Train Loss: 0.2473, Train Accuracy: 88.30%
+Validation Loss: 0.1703, Validation Accuracy: 94.65%
+Validation loss decreased (0.216963 --> 0.170261). Saving model ...
+Epoch [5/50], Train Loss: 0.2322, Train Accuracy: 89.50%
+Validation Loss: 0.1310, Validation Accuracy: 95.72%
+Validation loss decreased (0.170261 --> 0.130999). Saving model ...
+Epoch [6/50], Train Loss: 0.2277, Train Accuracy: 89.77%
+Validation Loss: 0.1798, Validation Accuracy: 93.66%
+EarlyStopping counter: 1 out of 5
+Epoch [7/50], Train Loss: 0.2263, Train Accuracy: 89.70%
+Validation Loss: 0.1233, Validation Accuracy: 94.57%
+Validation loss decreased (0.130999 --> 0.123251). Saving model ...
