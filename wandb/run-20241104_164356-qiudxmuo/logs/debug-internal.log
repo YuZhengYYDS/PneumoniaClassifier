@@ -1,0 +1,19 @@
+{"time":"2024-11-04T16:43:56.3572837-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-04T16:43:56.3572837-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241104_164356-qiudxmuo\\logs\\debug-core.log"}
+{"time":"2024-11-04T16:43:56.4641057-05:00","level":"INFO","msg":"created new stream","id":"qiudxmuo"}
+{"time":"2024-11-04T16:43:56.4641057-05:00","level":"INFO","msg":"stream: started","id":"qiudxmuo"}
+{"time":"2024-11-04T16:43:56.4641057-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qiudxmuo"}}
+{"time":"2024-11-04T16:43:56.4641057-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"qiudxmuo"}}
+{"time":"2024-11-04T16:43:56.4641057-05:00","level":"INFO","msg":"sender: started","stream_id":"qiudxmuo"}
+{"time":"2024-11-04T16:43:56.6634532-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T16:44:11.3088215-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T16:44:34.729283-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T16:44:34.7485505-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T16:44:34.7485505-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T16:44:35.1506205-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T16:44:35.2573437-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-04T16:44:36.2650924-05:00","level":"INFO","msg":"stream: closing","id":"qiudxmuo"}
+{"time":"2024-11-04T16:44:36.2650924-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"qiudxmuo"}}
+{"time":"2024-11-04T16:44:36.2650924-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qiudxmuo"}}
+{"time":"2024-11-04T16:44:36.2650924-05:00","level":"INFO","msg":"sender: closed","stream_id":"qiudxmuo"}
+{"time":"2024-11-04T16:44:36.2650924-05:00","level":"INFO","msg":"stream: closed","id":"qiudxmuo"}

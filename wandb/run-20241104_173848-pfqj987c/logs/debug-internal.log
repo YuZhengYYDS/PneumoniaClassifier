@@ -1,0 +1,20 @@
+{"time":"2024-11-04T17:38:48.8080909-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-04T17:38:48.8080909-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241104_173848-pfqj987c\\logs\\debug-core.log"}
+{"time":"2024-11-04T17:38:48.9152142-05:00","level":"INFO","msg":"created new stream","id":"pfqj987c"}
+{"time":"2024-11-04T17:38:48.9160752-05:00","level":"INFO","msg":"stream: started","id":"pfqj987c"}
+{"time":"2024-11-04T17:38:48.9160752-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pfqj987c"}}
+{"time":"2024-11-04T17:38:48.9160752-05:00","level":"INFO","msg":"sender: started","stream_id":"pfqj987c"}
+{"time":"2024-11-04T17:38:48.9160752-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pfqj987c"}}
+{"time":"2024-11-04T17:38:49.321565-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T17:40:55.0027952-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T17:41:34.6224162-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/pfqj987c/file_stream"}
+{"time":"2024-11-04T17:41:34.6224162-05:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/zheng-yu3-ucl/chest_xray_classification/pfqj987c/file_stream: {\"error\":\"run chest_xray_classification/pfqj987c not found while streaming file\"}"}
+{"time":"2024-11-04T17:41:58.5799359-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T17:41:58.5939857-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T17:41:58.5948966-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T17:41:58.6513521-05:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-04T17:41:59.6090125-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.015902,"error_status":"retrying HTTP 409 Conflict"}],"total_operations":1}}
+{"time":"2024-11-04T17:42:01.0456911-05:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-04T17:42:05.9072456-05:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-04T17:42:15.2375471-05:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-04T17:42:32.7739498-05:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}

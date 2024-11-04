@@ -1,0 +1,17 @@
+Training Progress:   6%|▌         | 3/50 [02:05<32:46, 41.85s/it]
+Epoch [1/50], Train Loss: 0.3594, Train Accuracy: 85.98%
+Validation Loss: 0.1976, Validation Accuracy: 92.72%
+Train Class Accuracy: {'NORMAL': 86.9581464737925, 'PNEUMONIA': 84.99114679610035}
+Validation Class Accuracy: {'NORMAL': 89.24050632911393, 'PNEUMONIA': 96.20253164556962}
+Validation loss decreased (inf --> 0.197607). Saving model ...
+Epoch [2/50], Train Loss: 0.2416, Train Accuracy: 91.59%
+Validation Loss: 0.1633, Validation Accuracy: 94.94%
+Train Class Accuracy: {'NORMAL': 91.81405597219256, 'PNEUMONIA': 91.70746235940699}
+Validation Class Accuracy: {'NORMAL': 93.67088607594937, 'PNEUMONIA': 96.20253164556962}
+Validation loss decreased (0.197607 --> 0.163337). Saving model ...
+Epoch [3/50], Train Loss: 0.2154, Train Accuracy: 92.22%
+Validation Loss: 0.1697, Validation Accuracy: 94.62%
+Train Class Accuracy: {'NORMAL': 91.44410115598197, 'PNEUMONIA': 92.87599437241462}
+Validation Class Accuracy: {'NORMAL': 93.0379746835443, 'PNEUMONIA': 96.20253164556962}
+EarlyStopping counter: 1 out of 8
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.
