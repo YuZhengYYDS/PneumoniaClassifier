@@ -1,0 +1,17 @@
+{"time":"2024-11-04T22:48:20.9915201-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-04T22:48:20.9915201-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241104_224820-kh3y80an\\logs\\debug-core.log"}
+{"time":"2024-11-04T22:48:21.4237171-05:00","level":"INFO","msg":"created new stream","id":"kh3y80an"}
+{"time":"2024-11-04T22:48:21.4237171-05:00","level":"INFO","msg":"stream: started","id":"kh3y80an"}
+{"time":"2024-11-04T22:48:21.4244711-05:00","level":"INFO","msg":"sender: started","stream_id":"kh3y80an"}
+{"time":"2024-11-04T22:48:21.4237171-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kh3y80an"}}
+{"time":"2024-11-04T22:48:21.4237171-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kh3y80an"}}
+{"time":"2024-11-04T22:48:21.7081681-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T22:55:31.9048432-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T22:55:31.9060185-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T22:55:32.9083979-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.718431,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.006298,"progress":"5.3KB/5.3KB"}]}],"total_operations":1}}
+{"time":"2024-11-04T22:55:33.7403969-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T22:55:35.0810952-05:00","level":"INFO","msg":"stream: closing","id":"kh3y80an"}
+{"time":"2024-11-04T22:55:35.0810952-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kh3y80an"}}
+{"time":"2024-11-04T22:55:35.0810952-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kh3y80an"}}
+{"time":"2024-11-04T22:55:35.0810952-05:00","level":"INFO","msg":"sender: closed","stream_id":"kh3y80an"}
+{"time":"2024-11-04T22:55:35.0810952-05:00","level":"INFO","msg":"stream: closed","id":"kh3y80an"}
