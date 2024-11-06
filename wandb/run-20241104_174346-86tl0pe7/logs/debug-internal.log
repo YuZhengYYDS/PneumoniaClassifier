@@ -7,3 +7,8 @@
 {"time":"2024-11-04T17:43:46.8844656-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"86tl0pe7"}}
 {"time":"2024-11-04T17:43:47.0842018-05:00","level":"INFO","msg":"Starting system monitor"}
 {"time":"2024-11-04T17:46:37.0917453-05:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 37180"}
+{"time":"2024-11-04T18:17:27.9440912-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/86tl0pe7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-04T18:17:29.9696772-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/86tl0pe7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-04T22:39:38.0412225-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/86tl0pe7/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-04T22:40:57.1727183-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/86tl0pe7/file_stream"}
+{"time":"2024-11-04T22:40:57.1727183-05:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/zheng-yu3-ucl/chest_xray_classification/86tl0pe7/file_stream: {\"error\":\"run chest_xray_classification/86tl0pe7 not found while streaming file\"}"}

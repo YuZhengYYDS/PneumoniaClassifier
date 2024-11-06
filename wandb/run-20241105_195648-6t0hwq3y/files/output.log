@@ -1,0 +1,118 @@
+Training Progress:  12%|█▏        | 6/50 [03:27<22:08, 30.19s/it]
+Epoch [1/50], Train Loss: 1.4116, Train Accuracy: 86.22%
+Validation Loss: 1.3238, Validation Accuracy: 92.41%
+Train Class Accuracy: {'NORMAL': 87.01152370376442, 'PNEUMONIA': 86.44359712355067}
+Validation Class Accuracy: {'NORMAL': 91.77215189873418, 'PNEUMONIA': 93.0379746835443}
+Validation loss decreased (inf --> 1.323847). Saving model ...
+Epoch [2/50], Train Loss: 1.2404, Train Accuracy: 90.09%
+Validation Loss: 1.7331, Validation Accuracy: 83.86%
+Train Class Accuracy: {'NORMAL': 88.96963384342654, 'PNEUMONIA': 91.19336953895775}
+Validation Class Accuracy: {'NORMAL': 89.87341772151899, 'PNEUMONIA': 77.84810126582279}
+EarlyStopping counter: 1 out of 8
+Epoch [3/50], Train Loss: 1.1264, Train Accuracy: 89.93%
+Validation Loss: 3.3052, Validation Accuracy: 88.92%
+Train Class Accuracy: {'NORMAL': 90.51033763707912, 'PNEUMONIA': 90.84675401801275}
+Validation Class Accuracy: {'NORMAL': 81.64556962025317, 'PNEUMONIA': 96.20253164556962}
+EarlyStopping counter: 2 out of 8
+Epoch [4/50], Train Loss: 1.3035, Train Accuracy: 90.76%
+Validation Loss: 1.7784, Validation Accuracy: 89.24%
+Train Class Accuracy: {'NORMAL': 91.4247314808944, 'PNEUMONIA': 91.74285321231913}
+Validation Class Accuracy: {'NORMAL': 81.0126582278481, 'PNEUMONIA': 97.46835443037975}
+EarlyStopping counter: 3 out of 8
+Epoch [5/50], Train Loss: 1.1307, Train Accuracy: 91.43%
+Validation Loss: 1.0291, Validation Accuracy: 92.41%
+Train Class Accuracy: {'NORMAL': 91.779042857008, 'PNEUMONIA': 92.24343873790467}
+Validation Class Accuracy: {'NORMAL': 93.67088607594937, 'PNEUMONIA': 91.13924050632912}
+Validation loss decreased (1.323847 --> 1.029124). Saving model ...
+Epoch [6/50], Train Loss: 0.7177, Train Accuracy: 94.27%
+Validation Loss: 1.0010, Validation Accuracy: 91.46%
+Train Class Accuracy: {'NORMAL': 93.37504183982512, 'PNEUMONIA': 96.26304775912942}
+Validation Class Accuracy: {'NORMAL': 89.24050632911393, 'PNEUMONIA': 93.67088607594937}
+Validation loss decreased (1.029124 --> 1.001024). Saving model ...
+Epoch [7/50], Train Loss: 0.4350, Train Accuracy: 95.10%
+Validation Loss: 0.8493, Validation Accuracy: 92.41%
+Train Class Accuracy: {'NORMAL': 94.08205179001422, 'PNEUMONIA': 95.09022736669037}
+Validation Class Accuracy: {'NORMAL': 92.40506329113924, 'PNEUMONIA': 92.40506329113924}
+Validation loss decreased (1.001024 --> 0.849345). Saving model ...
+Epoch [8/50], Train Loss: 0.3923, Train Accuracy: 94.51%
+Validation Loss: 0.8826, Validation Accuracy: 92.72%
+Train Class Accuracy: {'NORMAL': 95.36010035608527, 'PNEUMONIA': 95.15513538688131}
+Validation Class Accuracy: {'NORMAL': 94.30379746835443, 'PNEUMONIA': 91.13924050632912}
+EarlyStopping counter: 1 out of 8
+Epoch [9/50], Train Loss: 0.4441, Train Accuracy: 95.26%
+Validation Loss: 0.7753, Validation Accuracy: 92.72%
+Train Class Accuracy: {'NORMAL': 94.41789118356667, 'PNEUMONIA': 95.42483408834026}
+Validation Class Accuracy: {'NORMAL': 93.67088607594937, 'PNEUMONIA': 91.77215189873418}
+Validation loss decreased (0.849345 --> 0.775321). Saving model ...
+Epoch [10/50], Train Loss: 0.3459, Train Accuracy: 94.71%
+Validation Loss: 0.8840, Validation Accuracy: 92.72%
+Train Class Accuracy: {'NORMAL': 95.26416159622595, 'PNEUMONIA': 95.26228484511479}
+Validation Class Accuracy: {'NORMAL': 93.0379746835443, 'PNEUMONIA': 92.40506329113924}
+EarlyStopping counter: 1 out of 8
+Epoch [11/50], Train Loss: 0.3193, Train Accuracy: 95.93%
+Validation Loss: 1.0695, Validation Accuracy: 92.41%
+Train Class Accuracy: {'NORMAL': 96.06869892579189, 'PNEUMONIA': 96.51476646764118}
+Validation Class Accuracy: {'NORMAL': 93.67088607594937, 'PNEUMONIA': 91.13924050632912}
+EarlyStopping counter: 2 out of 8
+Epoch [12/50], Train Loss: 0.2189, Train Accuracy: 96.45%
+Validation Loss: 1.0531, Validation Accuracy: 90.82%
+Train Class Accuracy: {'NORMAL': 96.44144921341129, 'PNEUMONIA': 97.5763644663711}
+Validation Class Accuracy: {'NORMAL': 90.50632911392405, 'PNEUMONIA': 91.13924050632912}
+EarlyStopping counter: 3 out of 8
+Epoch [13/50], Train Loss: 0.2867, Train Accuracy: 96.21%
+Validation Loss: 0.9085, Validation Accuracy: 93.35%
+Train Class Accuracy: {'NORMAL': 96.31802671227983, 'PNEUMONIA': 97.15072116720008}
+Validation Class Accuracy: {'NORMAL': 94.30379746835443, 'PNEUMONIA': 92.40506329113924}
+EarlyStopping counter: 4 out of 8
+Epoch [14/50], Train Loss: 0.3209, Train Accuracy: 95.22%
+Validation Loss: 0.7627, Validation Accuracy: 93.04%
+Train Class Accuracy: {'NORMAL': 94.62826352246823, 'PNEUMONIA': 95.21816840784734}
+Validation Class Accuracy: {'NORMAL': 91.77215189873418, 'PNEUMONIA': 94.30379746835443}
+Validation loss decreased (0.775321 --> 0.762701). Saving model ...
+Epoch [15/50], Train Loss: 0.2525, Train Accuracy: 96.21%
+Validation Loss: 0.5929, Validation Accuracy: 93.67%
+Train Class Accuracy: {'NORMAL': 96.30562678149835, 'PNEUMONIA': 96.44289549263719}
+Validation Class Accuracy: {'NORMAL': 94.9367088607595, 'PNEUMONIA': 92.40506329113924}
+Validation loss decreased (0.762701 --> 0.592921). Saving model ...
+Epoch [16/50], Train Loss: 0.2422, Train Accuracy: 96.37%
+Validation Loss: 0.8253, Validation Accuracy: 93.04%
+Train Class Accuracy: {'NORMAL': 96.80823690735647, 'PNEUMONIA': 96.79753179789355}
+Validation Class Accuracy: {'NORMAL': 94.30379746835443, 'PNEUMONIA': 91.77215189873418}
+EarlyStopping counter: 1 out of 8
+Epoch [17/50], Train Loss: 0.2359, Train Accuracy: 96.37%
+Validation Loss: 0.7967, Validation Accuracy: 94.30%
+Train Class Accuracy: {'NORMAL': 96.5316009132766, 'PNEUMONIA': 97.09447520036721}
+Validation Class Accuracy: {'NORMAL': 94.9367088607595, 'PNEUMONIA': 93.67088607594937}
+EarlyStopping counter: 2 out of 8
+Epoch [18/50], Train Loss: 0.1695, Train Accuracy: 97.04%
+Validation Loss: 0.9615, Validation Accuracy: 93.35%
+Train Class Accuracy: {'NORMAL': 96.67471020121947, 'PNEUMONIA': 97.76458902939167}
+Validation Class Accuracy: {'NORMAL': 91.77215189873418, 'PNEUMONIA': 94.9367088607595}
+EarlyStopping counter: 3 out of 8
+Epoch [19/50], Train Loss: 0.2627, Train Accuracy: 95.70%
+Validation Loss: 1.0594, Validation Accuracy: 93.67%
+Train Class Accuracy: {'NORMAL': 94.72214504560927, 'PNEUMONIA': 96.16644773808213}
+Validation Class Accuracy: {'NORMAL': 94.9367088607595, 'PNEUMONIA': 92.40506329113924}
+EarlyStopping counter: 4 out of 8
+Epoch [20/50], Train Loss: 0.2158, Train Accuracy: 96.33%
+Validation Loss: 0.7603, Validation Accuracy: 92.41%
+Train Class Accuracy: {'NORMAL': 96.39002239268297, 'PNEUMONIA': 97.12344775644893}
+Validation Class Accuracy: {'NORMAL': 91.13924050632912, 'PNEUMONIA': 93.67088607594937}
+EarlyStopping counter: 5 out of 8
+Epoch [21/50], Train Loss: 0.2400, Train Accuracy: 96.45%
+Validation Loss: 0.8623, Validation Accuracy: 93.67%
+Train Class Accuracy: {'NORMAL': 96.69275175181716, 'PNEUMONIA': 97.18414475820838}
+Validation Class Accuracy: {'NORMAL': 93.67088607594937, 'PNEUMONIA': 93.67088607594937}
+EarlyStopping counter: 6 out of 8
+Epoch [22/50], Train Loss: 0.2215, Train Accuracy: 96.09%
+Validation Loss: 1.0576, Validation Accuracy: 93.04%
+Train Class Accuracy: {'NORMAL': 96.50060454036846, 'PNEUMONIA': 96.63171562484642}
+Validation Class Accuracy: {'NORMAL': 93.67088607594937, 'PNEUMONIA': 92.40506329113924}
+EarlyStopping counter: 7 out of 8
+Epoch [23/50], Train Loss: 0.2028, Train Accuracy: 96.80%
+Validation Loss: 0.7703, Validation Accuracy: 93.99%
+Train Class Accuracy: {'NORMAL': 96.75657683385214, 'PNEUMONIA': 97.46027344580942}
+Validation Class Accuracy: {'NORMAL': 94.30379746835443, 'PNEUMONIA': 93.67088607594937}
+EarlyStopping counter: 8 out of 8
+Early stopping triggered.
+Training complete.
