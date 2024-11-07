@@ -1,0 +1,8 @@
+{"time":"2024-11-06T19:09:18.3802033-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T19:09:18.3802033-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241106_190918-1wy2d8tj\\logs\\debug-core.log"}
+{"time":"2024-11-06T19:09:18.4900559-05:00","level":"INFO","msg":"created new stream","id":"1wy2d8tj"}
+{"time":"2024-11-06T19:09:18.4900559-05:00","level":"INFO","msg":"stream: started","id":"1wy2d8tj"}
+{"time":"2024-11-06T19:09:18.4900559-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"1wy2d8tj"}}
+{"time":"2024-11-06T19:09:18.4900559-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"1wy2d8tj"}}
+{"time":"2024-11-06T19:09:18.4900559-05:00","level":"INFO","msg":"sender: started","stream_id":"1wy2d8tj"}
+{"time":"2024-11-06T19:09:18.5054248-05:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}

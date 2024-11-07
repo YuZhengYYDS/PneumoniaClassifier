@@ -1,0 +1,17 @@
+{"time":"2024-11-06T17:10:03.3929783-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T17:10:03.3929783-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241106_171003-iis4z5rh\\logs\\debug-core.log"}
+{"time":"2024-11-06T17:10:03.5005321-05:00","level":"INFO","msg":"created new stream","id":"iis4z5rh"}
+{"time":"2024-11-06T17:10:03.5005321-05:00","level":"INFO","msg":"stream: started","id":"iis4z5rh"}
+{"time":"2024-11-06T17:10:03.5005321-05:00","level":"INFO","msg":"sender: started","stream_id":"iis4z5rh"}
+{"time":"2024-11-06T17:10:03.5005321-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"iis4z5rh"}}
+{"time":"2024-11-06T17:10:03.5005321-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"iis4z5rh"}}
+{"time":"2024-11-06T17:10:03.8178885-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T17:31:00.8766696-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T17:31:00.8771813-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T17:31:01.8889565-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.739622}],"total_operations":1}}
+{"time":"2024-11-06T17:31:02.3969988-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T17:31:03.7263965-05:00","level":"INFO","msg":"stream: closing","id":"iis4z5rh"}
+{"time":"2024-11-06T17:31:03.7263965-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"iis4z5rh"}}
+{"time":"2024-11-06T17:31:03.7263965-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"iis4z5rh"}}
+{"time":"2024-11-06T17:31:03.7263965-05:00","level":"INFO","msg":"sender: closed","stream_id":"iis4z5rh"}
+{"time":"2024-11-06T17:31:03.7263965-05:00","level":"INFO","msg":"stream: closed","id":"iis4z5rh"}

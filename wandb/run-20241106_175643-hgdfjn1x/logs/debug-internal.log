@@ -1,0 +1,19 @@
+{"time":"2024-11-06T17:56:43.5901088-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T17:56:43.5901088-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241106_175643-hgdfjn1x\\logs\\debug-core.log"}
+{"time":"2024-11-06T17:56:43.7027363-05:00","level":"INFO","msg":"created new stream","id":"hgdfjn1x"}
+{"time":"2024-11-06T17:56:43.7027363-05:00","level":"INFO","msg":"stream: started","id":"hgdfjn1x"}
+{"time":"2024-11-06T17:56:43.7027363-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hgdfjn1x"}}
+{"time":"2024-11-06T17:56:43.7027363-05:00","level":"INFO","msg":"sender: started","stream_id":"hgdfjn1x"}
+{"time":"2024-11-06T17:56:43.7027363-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hgdfjn1x"}}
+{"time":"2024-11-06T17:56:43.9159704-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T18:05:16.0217188-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T18:06:39.85562-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T18:06:39.8663299-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T18:06:39.8663299-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T18:06:40.8736221-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6875142,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.1405292,"progress":"4.3KB/4.3KB"}]}],"total_operations":1}}
+{"time":"2024-11-06T18:06:41.8838354-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T18:06:43.0205852-05:00","level":"INFO","msg":"stream: closing","id":"hgdfjn1x"}
+{"time":"2024-11-06T18:06:43.0205852-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hgdfjn1x"}}
+{"time":"2024-11-06T18:06:43.0205852-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hgdfjn1x"}}
+{"time":"2024-11-06T18:06:43.0205852-05:00","level":"INFO","msg":"sender: closed","stream_id":"hgdfjn1x"}
+{"time":"2024-11-06T18:06:43.0205852-05:00","level":"INFO","msg":"stream: closed","id":"hgdfjn1x"}

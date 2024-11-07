@@ -1,0 +1,25 @@
+{"time":"2024-11-06T18:55:22.1970956-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T18:55:22.197789-05:00","level":"INFO","msg":"created symlink","path":"d:\\AiProjects\\PneumoniaClassifier\\wandb\\run-20241106_185522-jlbmn5do\\logs\\debug-core.log"}
+{"time":"2024-11-06T18:55:22.3039814-05:00","level":"INFO","msg":"created new stream","id":"jlbmn5do"}
+{"time":"2024-11-06T18:55:22.3045427-05:00","level":"INFO","msg":"stream: started","id":"jlbmn5do"}
+{"time":"2024-11-06T18:55:22.3045427-05:00","level":"INFO","msg":"sender: started","stream_id":"jlbmn5do"}
+{"time":"2024-11-06T18:55:22.3045427-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jlbmn5do"}}
+{"time":"2024-11-06T18:55:22.3045427-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jlbmn5do"}}
+{"time":"2024-11-06T18:55:22.5373871-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T19:08:52.8104455-05:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: error making HTTP request: api: failed sending: POST https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/jlbmn5do/file_stream giving up after 1 attempt(s): Post \"https://api.wandb.ai/files/zheng-yu3-ucl/chest_xray_classification/jlbmn5do/file_stream\": tls: failed to verify certificate: x509: certificate signed by unknown authority. got response: <nil>"}
+{"time":"2024-11-06T19:08:53.0238355-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.30.64.53:57851->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2024-11-06T19:08:55.2041214-05:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: api: failed sending: POST https://api.wandb.ai/graphql giving up after 2 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}
+{"time":"2024-11-06T19:09:08.0614904-05:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}
+{"time":"2024-11-06T19:09:16.9684885-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T19:09:16.9684885-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T19:09:16.9817126-05:00","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}
+{"time":"2024-11-06T19:09:16.9953106-05:00","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}
+{"time":"2024-11-06T19:09:17.0074928-05:00","level":"ERROR","msg":"sender: failed to save job artifact: ArtifactSaver.createArtifact: api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}
+{"time":"2024-11-06T19:09:17.0438395-05:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate signed by unknown authority"}
+{"time":"2024-11-06T19:09:17.0445679-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T19:09:17.0445679-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-06T19:09:18.0579437-05:00","level":"INFO","msg":"stream: closing","id":"jlbmn5do"}
+{"time":"2024-11-06T19:09:18.0579437-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jlbmn5do"}}
+{"time":"2024-11-06T19:09:18.0579437-05:00","level":"INFO","msg":"sender: closed","stream_id":"jlbmn5do"}
+{"time":"2024-11-06T19:09:18.0579437-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jlbmn5do"}}
+{"time":"2024-11-06T19:09:18.0579437-05:00","level":"INFO","msg":"stream: closed","id":"jlbmn5do"}
